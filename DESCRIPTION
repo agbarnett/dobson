@@ -5,7 +5,7 @@ Version: 0.1
 Authors@R: c(
     person("Adrian", "Barnett", , "a.barnett@qut.edu.au", role = c("aut", "cre"))
     )
-Description: Example datasets from the book "An Introduction to Generalised Linear Models" (4th edition) by Dobson and Barnett. The data were read into R from the 'Excel' files available here: <https://www.crcpress.com/downloads/C9500/GLM_data.zip>.
+Description: Example datasets from the book "An Introduction to Generalised Linear Models" (Year: 2008, ISBN:9781584889502) by Dobson and Barnett. The data were read into R from the 'Excel' files available here: <https://www.crcpress.com/downloads/C9500/GLM_data.zip>.
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
