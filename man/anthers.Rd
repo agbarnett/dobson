@@ -1,7 +1,7 @@
 \name{anthers}
 \alias{anthers}
 \docType{data}
-\title{Embryogenic anthers data from table 7.2}
+\title{Embryogenic anthers data from table 7.5}
 \description{Numbers of embryogenic anthers of the plant species Datura
 innoxia Mill obtained when anthers were prepared under
 several different conditions
