@@ -8,12 +8,13 @@ and colleagues}
 \usage{data(doctors)}
 
 \format{
-  A \code{tibble} with 10 observations and the following 4 variables.
+  A \code{tibble} with 10 observations and the following 5 variables.
   \describe{
-    \item{\code{age}}{age group}
+    \item{\code{age}}{age group; 1=35 to 44 years, 2=45 to 54 years, 3=55 to 64 years, 4=65 to 74 years, 5=75 to 84 years}
+    \item{\code{agesq}}{age group squared}
     \item{\code{smoking}}{smoker or non-smoker}
     \item{\code{deaths}}{number of deaths}
-    \item{\code{person-years}}{person years of of observation at the time of the analysis}
+    \item{\code{personyears}}{person years of of observation at the time of the analysis}
   }
 }
 
