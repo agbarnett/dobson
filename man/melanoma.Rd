@@ -10,7 +10,7 @@ cancer called malignant melanoma}
 \format{
   A \code{tibble} with 12 observations and the following 3 variables.
   \describe{
-    \item{\code{type}}{tumor type}
+    \item{\code{tumor}}{tumor type}
     \item{\code{site}}{site of cancer}
     \item{\code{frequency}}{frequency}
   }
