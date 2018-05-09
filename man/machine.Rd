@@ -1,7 +1,7 @@
 \name{machine}
 \alias{machine}
 \docType{data}
-\title{Machine data from table 6.23}
+\title{Machine data from table 6.26}
 \description{
 Weights of machine components made by workers on different days
 }

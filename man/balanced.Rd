@@ -1,7 +1,7 @@
 \name{balanced}
 \alias{balanced}
 \docType{data}
-\title{Balanced data from table 6.10}
+\title{Balanced data from table 6.12}
 \description{
 Fictitious balanced data for a two-factor ANOVA with equal numbers of observations
 in each subgroup

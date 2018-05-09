@@ -7,7 +7,7 @@ Longitudinal data from an experiment to promote the recovery of
 stroke patients in wide format. The response variable is the Bartel index with
 higher scores meaning better outcomes and a maximum score of 100.
 }
-\usage{data(stroke)}
+\usage{data(stroke.wide)}
 
 \format{
   A \code{tibble} with 24 observations and the following 10 variables.
@@ -30,6 +30,13 @@ hospital as A, C = usual care in a different hospital}
 \examples{
 data(stroke)
 summary(stroke)
+
+# To transform data from wide to long format use
+\dontrun{library(reshape2)
+stroke = melt(data=stroke.wide, id.vars=c('Subject','Group'), 
+  value.name='ability', variable.name='week')
+stroke$time = as.numeric(gsub('week', '', stroke$week))
+}
 }
 \keyword{datasets}
 

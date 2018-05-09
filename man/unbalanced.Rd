@@ -1,7 +1,7 @@
 \name{unbalanced}
 \alias{unbalanced}
 \docType{data}
-\title{Unbalanced data from table 6.24}
+\title{Unbalanced data from table 6.27}
 \description{
 Unbalanced data from a fictitious two-factor experiment
 }

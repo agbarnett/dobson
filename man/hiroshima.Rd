@@ -1,7 +1,7 @@
 \name{hiroshima}
 \alias{hiroshima}
 \docType{data}
-\title{Hiroshima data from table 7.12}
+\title{Hiroshima data from table 7.14}
 \description{
 The number of deaths from leukemia and other cancers among survivors
 of the Hiroshima atom bomb. The data are for deaths during the period 1950–

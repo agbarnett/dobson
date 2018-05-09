@@ -1,7 +1,7 @@
 \name{graduates}
 \alias{graduates}
 \docType{data}
-\title{Graduate survival data from tables 7.14 and 7.15}
+\title{Graduate survival data from tables 7.16 and 7.17}
 \description{
 Survival 50 years after graduation of men
 and women who graduated each year from 1938 to 1947 from various Faculties

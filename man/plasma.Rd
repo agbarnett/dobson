@@ -1,7 +1,7 @@
 \name{plasma}
 \alias{plasma}
 \docType{data}
-\title{Plasma phosphate data from table 6.22}
+\title{Plasma phosphate data from table 6.25}
 \description{
 Plasma phosphate levels in obese and control participants one hour after
 a standard glucose tolerance test.

@@ -1,7 +1,7 @@
 \name{cyclones}
 \alias{cyclones}
 \docType{data}
-\title{Cyclone data from table 1.1}
+\title{Cyclone data from table 1.2}
 \description{
   The number of tropical cyclones during a season from November to April in Northeastern Australia
 }

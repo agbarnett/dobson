@@ -1,7 +1,7 @@
 \name{sugar}
 \alias{sugar}
 \docType{data}
-\title{Sugar data from table 6.19}
+\title{Sugar data from table 6.22}
 \description{
 Average apparent per capita consumption of sugar (in kg per year) in Australia, as refined sugar and in manufactured foods
 }

@@ -1,7 +1,7 @@
 \name{cholesterol}
 \alias{cholesterol}
 \docType{data}
-\title{Cholesterol data from table 6.21}
+\title{Cholesterol data from table 6.24}
 \description{
 Cholesterol, age and BMI for thirty women.
 }

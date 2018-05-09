@@ -1,7 +1,7 @@
 \name{PLOS}
 \alias{PLOS}
 \docType{data}
-\title{PLOS Medicine data from figure 6.3}
+\title{PLOS Medicine data from figure 6.7}
 \description{Data from 878 journal articles published in PLOS Medicine between 2011 and 2015}
 \usage{data(PLOS)}
 

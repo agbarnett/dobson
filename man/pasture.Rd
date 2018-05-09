@@ -1,7 +1,7 @@
 \name{pasture}
 \alias{pasture}
 \docType{data}
-\title{Pasture data from table 6.20}
+\title{Pasture data from table 6.23}
 \description{
 Response of a grass and legume pasture system to various quantities of phosphorus fertilizer
 }
