@@ -1,7 +1,7 @@
 Package: dobson
 Type: Package
 Title: Data from the GLM Book by Dobson and Barnett
-Version: 0.2
+Version: 0.4
 Authors@R: c(
     person("Adrian", "Barnett", , "a.barnett@qut.edu.au", role = c("aut", "cre"))
     )
