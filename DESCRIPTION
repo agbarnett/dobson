@@ -1,0 +1,13 @@
+Package: dobson
+Type: Package
+Title: Data from the GLM Book by Dobson and Barnett
+Version: 0.4
+Authors@R: c(
+    person("Adrian", "Barnett", , "a.barnett@qut.edu.au", role = c("aut", "cre"))
+    )
+Description: Example datasets from the book "An Introduction to Generalised Linear Models" (Year: 2018, ISBN:9781138741515) by Dobson and Barnett.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 2.10)
+RoxygenNote: 6.0.1
