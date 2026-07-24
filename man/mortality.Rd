@@ -12,7 +12,7 @@
 \format{
   A tibble with 8 observations and the following 3 variables.
   \describe{
-    \item{\code{age group}}{age group (years)}
+    \item{\code{age group}}{age group (years; 8 levels)}
     \item{\code{deaths}}{number of deaths}
     \item{\code{population}}{population size}
   }

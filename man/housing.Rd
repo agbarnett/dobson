@@ -17,7 +17,7 @@
 }
 
 \references{Madsen, M. (1971). Statistical analysis of multiple contingency tables. two
-examples. \emph{Scandinavian Journal of Statistics} 3, 97–106.}
+examples. \emph{Scandinavian Journal of Statistics} 3, 97--106.}
 \examples{
 data(housing)
 summary(housing)

@@ -8,11 +8,11 @@ carbon disulphide at various concentrations
 \usage{data(beetle)}
 
 \format{
-  A \code{tibble} with 6 observations and the following 3 variables.
+  A \code{tibble} with 8 observations and the following 3 variables.
   \describe{
-    \item{\code{x}}{dose (log base 10 CS2mgl^{-1})}
+    \item{\code{x}}{dose (log base 10 CS\eqn{_2}mgl\eqn{^{-1}}})
     \item{\code{n}}{number of beetles}
-    \item{\code{y}}{numbers killed}
+    \item{\code{y}}{number killed}
   }
 }
 

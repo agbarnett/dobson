@@ -13,13 +13,13 @@ receiving treatment for small-cell lung cancer}
     \item{\code{treatment}}{treatment; sequential or alternating}
     \item{\code{sex}}{sex}
     \item{\code{response}}{four category ordinal response}
-    \item{\code{frequency}}{frequency}
+    \item{\code{frequency}}{number of patients}
   }
 }
 
 \references{Holtbrugger, W. and M. Schumacher (1991). A comparison of regression
 models for the analysis of ordered categorical data. \emph{Applied Statistics} 40,
-249–259.}
+249--259.}
 \examples{
 data(tumor)
 summary(tumor)

@@ -10,13 +10,13 @@ Average apparent per capita consumption of sugar (in kg per year) in Australia, 
 \format{
   A \code{tibble} with 6 observations and the following 3 variables.
   \describe{
-    \item{\code{period}}{period in years}
+    \item{\code{period}}{period in years (6 levels)}
     \item{\code{refined}}{refined sugar}
-    \item{\code{manufactured}}{Sugar in manufactured food}
+    \item{\code{manufactured}}{sugar in manufactured food}
   }
 }
 
-\source{Australian Bureau of Statistics 1998}
+\source{Australian Bureau of Statistics, 1998}
 \examples{
 data(sugar)
 summary(sugar)

@@ -2,15 +2,15 @@
 \alias{insurance}
 \docType{data}
 \title{Insurance data from table 9.13}
-\description{Insurance claim data by car category, age group and district.}
+\description{Insurance claim data by car category, age group, and district.}
 \usage{data(insurance)}
 
 \format{
   A \code{tibble} with 32 observations and the following 5 variables.
   \describe{
     \item{\code{car}}{car insurance category}
-    \item{\code{age}}{age group}
-    \item{\code{district}}{district where policy holder lived; 1=major city, 0=elsewhere}
+    \item{\code{age}}{age group (4 levels)}
+    \item{\code{district}}{district where policy holder lived; 1 = major city, 0 = elsewhere}
     \item{\code{y}}{number of claims}
     \item{\code{n}}{number of insurance policies}
   }

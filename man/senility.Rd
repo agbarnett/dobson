@@ -13,7 +13,7 @@ Scale (WAIS).
   A \code{tibble} with 54 observations and the following 2 variables.
   \describe{
     \item{\code{x}}{WAIS score}
-    \item{\code{s}}{symptoms of senility present; 1=yes, 0=no}
+    \item{\code{s}}{symptoms of senility present; 1 = yes, 0 = no}
   }
 }
 

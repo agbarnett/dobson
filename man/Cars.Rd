@@ -11,8 +11,8 @@ Preferences for air conditioning and power steering in cars by gender and age.
   A \code{tibble} with 18 observations and the following 4 variables.
   \describe{
     \item{\code{sex}}{sex}
-    \item{\code{age}}{age group}
-    \item{\code{response}}{ordinal response}
+    \item{\code{age}}{age group (3 levels)}
+    \item{\code{response}}{ordinal response (3 levels)}
     \item{\code{frequency}}{frequency}
   }
 }

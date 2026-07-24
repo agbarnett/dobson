@@ -1,7 +1,7 @@
 \name{chronic}
 \alias{chronic}
 \docType{data}
-\title{Chronic health data from table 2.7}
+\title{Chronic health data from table 2.1}
 \description{
 Numbers of chronic medical conditions reported by samples of women living in large country towns (town group) or in more
 rural areas (country group) in New South Wales, Australia
@@ -16,6 +16,8 @@ rural areas (country group) in New South Wales, Australia
     \item{\code{number}}{number of conditions}
   }
 }
+
+\source{Australian Longitudinal Study on Women’s Health}
 
 \examples{
 data(chronic)

@@ -2,15 +2,15 @@
 \alias{vaccine}
 \docType{data}
 \title{Vaccine data from table 9.6}
-\description{Data from a vaccine trial.}
+\description{Data from a flu vaccine trial.}
 \usage{data(vaccine)}
 
 \format{
   A \code{tibble} with 6 observations and the following 3 variables.
   \describe{
     \item{\code{treatment}}{treatment group}
-    \item{\code{response}}{response to treatment}
-    \item{\code{frequency}}{frequency}
+    \item{\code{response}}{ordinal response to treatment (3 levels)}
+    \item{\code{frequency}}{number of patients}
   }
 }
 

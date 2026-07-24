@@ -11,8 +11,8 @@ by date of diagnosis for successive 3-month periods from 1984 to 1988
 \format{
   A tibble with 20 observations and the following 3 variables.
   \describe{
-    \item{\code{year}}{year}
-    \item{\code{quarter}}{quarter of year}
+    \item{\code{year}}{year (1984 to 1988)}
+    \item{\code{quarter}}{quarter of year (1 to 4)}
     \item{\code{cases}}{number of cases}
   }
 }

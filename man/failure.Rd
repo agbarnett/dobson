@@ -3,7 +3,7 @@
 \docType{data}
 \title{Failure time data from table 4.1}
 \description{
-Lifetimes of Kevlar epoxy strand pressure vessels at 70% stress level
+Lifetimes of Kevlar epoxy strand pressure vessels at 70 percent stress level
 }
 \usage{data(failure)}
 

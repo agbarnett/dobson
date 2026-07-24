@@ -10,14 +10,14 @@ antibiotic treatment and age of the child. The children had acute otitis media i
 \format{
   A \code{tibble} with 18 observations and the following 4 variables.
   \describe{
-    \item{\code{age}}{child's age}
+    \item{\code{age}}{child's age (3 levels)}
     \item{\code{treatment}}{two treatments coded CEF and
 AMO}
-    \item{\code{number clear}}{number of clear ears}
-    \item{\code{frequency}}{faculty}
+    \item{\code{number clear}}{number of clear ears (0, 1 or 2)}
+    \item{\code{frequency}}{number of children}
   }
 }
-\source{Rosner, B. (1989). Multivariate methods for clustered binary data with more
+\references{Rosner, B. (1989). Multivariate methods for clustered binary data with more
 than one level of nesting. \emph{Journal of the American Statistical Association} 84,
 373–380.}
 \examples{

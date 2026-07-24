@@ -20,7 +20,7 @@ in a "waist loss" program
 \references{
 Egger, G., G. Fisher, S. Piers, K. Bedford, G. Morseau, S. Sabasio, B. Taipim,
 G. Bani, M. Assan, and P. Mills (1999). Abdominal obesity reduction
-in Indigenous men. \emph{International Journal of Obesity} 23, 564–569.
+in Indigenous men. \emph{International Journal of Obesity} 23, 564--569.
 }
 \examples{
 data(waist)

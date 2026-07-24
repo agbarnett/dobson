@@ -13,7 +13,7 @@ several different conditions
   \describe{
     \item{\code{y}}{numbers of embryogenic anthers}
     \item{\code{n}}{number of anthers}
-    \item{\code{newstor}}{storage condition, 0=control or 1=treatment}
+    \item{\code{newstor}}{storage condition, 0 = control or 1 = treatment}
     \item{\code{x}}{log (base e) of centrifuging force (g)}
   }
 }

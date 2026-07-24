@@ -13,12 +13,12 @@ were similar to the ulcer patients with respect to age, sex and socioeconomic st
     \item{\code{ulcer}}{type of ulcer}
     \item{\code{case-control}}{case or control}
     \item{\code{aspirin}}{aspirin user}
-    \item{\code{frequency}}{frequency}
+    \item{\code{frequency}}{number of patients}
   }
 }
 
 \references{Duggan, J. M., A. J. Dobson, H. Johnson, and P. P. Fahey (1986). Peptic
-ulcer and non-steroidal anti-inflammatory agents. \emph{Gut} 27, 929–933.}
+ulcer and non-steroidal anti-inflammatory agents. \emph{Gut} 27, 929--933.}
 \examples{
 data(ulcer)
 summary(ulcer)

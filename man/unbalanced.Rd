@@ -10,8 +10,8 @@ Unbalanced data from a fictitious two-factor experiment
 \format{
   A \code{tibble} with 10 observations and the following 3 variables.
   \describe{
-    \item{\code{factorA}}{factor A}
-    \item{\code{factorB}}{factor B}
+    \item{\code{factorA}}{factor A (3 levels)}
+    \item{\code{factorB}}{factor B (2 levels)}
     \item{\code{data}}{dependent data}
   }
 }

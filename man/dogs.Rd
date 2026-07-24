@@ -11,7 +11,7 @@ on five dogs under eight different load conditions
   A \code{tibble} with 40 observations and the following 4 variables.
   \describe{
     \item{\code{dog}}{dog number}
-    \item{\code{condition}}{load condition}
+    \item{\code{condition}}{load condition (1 to 8)}
     \item{\code{y}}{left ventricular volume}
     \item{\code{x}}{parallel conductance volume}
   }

@@ -5,7 +5,7 @@
 \description{
 Survival 50 years after graduation of men
 and women who graduated each year from 1938 to 1947 from various Faculties
-of the University of Adelaide.
+of the University of Adelaide. Missing data in `survive` and `total` are represented using an asterisk.
 }
 \usage{data(graduates)}
 

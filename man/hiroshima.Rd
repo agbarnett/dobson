@@ -12,7 +12,7 @@ of the Hiroshima atom bomb. The data are for deaths during the period 1950–
 \format{
   A \code{tibble} with 6 observations and the following 4 variables.
   \describe{
-    \item{\code{radiation}}{radiation dose (rads)}
+    \item{\code{radiation}}{radiation dose (rads) (6 levels)}
     \item{\code{leukemia}}{leukemia deaths}
     \item{\code{other cancer}}{deaths from other cancers}
     \item{\code{total cancers}}{total cancer deaths}

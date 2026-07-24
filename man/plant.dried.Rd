@@ -10,11 +10,8 @@ Dried weights of plants from three different growing conditions
 \format{
   A \code{tibble} with 20 observations and the following 4 variables.
   \describe{
-    \item{\code{carbohydrate}}{percent of total calories obtained from complex
-carbohydrates}
-    \item{\code{age}}{age in years}
-    \item{\code{weight}}{body weight relative to "ideal" weight for height}
-    \item{\code{protein}}{percentage of calories as protein}
+    \item{\code{group}}{growing condition: control, treatment A or treatment B}
+    \item{\code{weight}}{dried weight}
   }
 }
 
